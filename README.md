@@ -1,2 +1,2 @@
-# m2-h1-christensen-kristine
+# m2-h2-christensen-kristine
 Assignment 2: Creating a Web Page
